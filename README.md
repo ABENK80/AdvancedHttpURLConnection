@@ -4,7 +4,7 @@
 
 Making HttpURLConnection faster, easy and secure. Best method to impliment httpurlconnection in android.
 
-* [Download demo apk and see how it works.](https://github.com/VishnuSivadasVS/Advanced-HttpURLConnection/releases/download/1.2/AdvancedHttpUrlConnection-debug.apk)
+
 
 ## Steps to add the library to your project.
 
@@ -127,8 +127,3 @@ handler.post(new Runnable() {
 
 This is just like a pre-release version there are lot of other features coming soon.
 
-## Authors
-
-* **Vishnu Sivadas** - *Developer* - [Website](https://www.vishnusivadas.com/)
-
-Check out my other works [@VishnuSivadasVS](https://github.com/VishnuSivadasVS)
